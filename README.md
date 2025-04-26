@@ -1,10 +1,10 @@
 ## Telco Data and Insights Surrounding Churn
 
-**Chart 1 takeaway:**
+**Charges by Tenure Group - Takeaway:**
 - Customers with longer tenure pay significantly more: average monthly charges rise from **$56** in the first 6 months to **$80** after 6+ years.  
 - Retention doesn't just protect revenue - it compounds it.
 
-**Chart 2 insight:**
+**Churn by Contract Type - Insight:**
 - Month-to-month contract customers churn at **43%**, compared to just **3%** for two-year contracts.
 - Locking customers into long-term contracts is a non-negotiable survival lever for subscription businesses.
 
